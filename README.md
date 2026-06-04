@@ -1,6 +1,6 @@
 <h3 align="center">
   <img src="cat.png" alt="meow" align="right" width="290">
-  Hello, nice to meet you
+  👋 Hello, nice to meet you
 </h3>
 
 <p>
