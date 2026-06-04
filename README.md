@@ -28,7 +28,7 @@
   </li>
   <li>
     If GitHub is down again, everything is mirrored on my 
-    <a href="https://forgejo.meisterlala.dev/misti"><b>Foregejo instance</b></a>
+    <a href="https://forgejo.meisterlala.dev/misti"><b>Forgejo instance</b></a>
   </li>
   <li>
     Or make a Federated Pull request on my
