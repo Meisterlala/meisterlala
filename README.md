@@ -1,9 +1,6 @@
-<h3 align="center">👋 Hello! Welcome to my Profile</h3>
+<h3 align="center">👋 Welcome to my Profile</h3>
 
-
-
-
-  enjoy watching the dino while you are looking around at my repos
+More info about me on [meisterlala.dev](https://meisterlala.dev/)
 
 
 
