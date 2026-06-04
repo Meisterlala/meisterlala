@@ -6,7 +6,7 @@
 <p>
   I'm a Computer Science student and software developer from Germany.
   I like building weird, useful, and sometimes slightly cursed things with
-  <b>Rust</b>, <b>C#</b>, <b>Go</b>, <b>PHP</b>, and <b>JavaScript</b>.
+  <b>Rust</b>, <b>C#</b>, <b>Go</b>, <b>Python</b>, and <b>JavaScript</b>.
   Many of my projects are self-hosted inside my Kubernetes cluster.
 </p>
 
